@@ -16,7 +16,7 @@ import java.util.Vector;
 import java.util.logging.Logger;
 
 /**
- * Created by pactera on 2018/3/29.
+ * Created by gaogf on 2018/3/29.
  */
 public class JdbcPoolsUtils implements DataSource {
     private static Vector<Connection> connections = new Vector<>();
